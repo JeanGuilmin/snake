@@ -33,6 +33,7 @@ Commandes classiques:
 - Aller dans un autre répertoire: `cd Documents/`. Pour aller dans le répertoire parent: `cd ..`.
 - Créer un fichier: `touch foo.txt`.
 - Supprimer un fichier: `rm foo.txt`.
+- Afficher le contenu d'un fichier: `cat foo.txt`.
 
 :point_up: Quelques raccourcis claviers utiles:
 - Utiliser `shift` pour compléter les mots automatiquement dans le terminal.
