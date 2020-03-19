@@ -23,6 +23,7 @@ Commandes classiques:
 - Push les commits en ligne: `git push`.
 - Cloner un repository: `git clone`.
 - Récupérer les dernières modifications: `git pull`.
+- Voir les modifications faites à un fichier: `git diff foo.txt`.
 
 ## Git Bash
 Terminal qui permet d'utiliser des commandes comme sur macOS et Linux.
