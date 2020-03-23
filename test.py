@@ -2,11 +2,11 @@ import pygame
 
 pygame.init()
 
+icon_32x32 = pygame.image.load('snake-icon.png')
+pygame.display.set_icon(icon_32x32)
 screen = pygame.display.set_mode((640, 480))
 pygame.display.set_caption('snake')
-icon_32x32 = pygame.image.load('snake-icon.png').convert_alpha()
-pygame.display.set_icon(icon_32x32)
- 
+
 run = True
 
 while run:
